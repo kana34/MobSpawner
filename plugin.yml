@@ -1,0 +1,9 @@
+name: MobSpawner
+main: kana.MobSpawner.MobSpawner
+author: kana34
+website: http://2k16.ovh/2015/12/07/mobspawner/
+version: 3.0
+depends: [Vault, WorldGuard, WorldEdit]
+commands:
+    ms:
+        description: /ms help.
